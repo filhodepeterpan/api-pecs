@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "titulo": "Silêncio",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742014229/silencio_nhrfwn.png",
+        "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742016340/silencio_smuhqy.mp3",
+        "categoria": "Ajuda"
+    },
+    {
+        "id": 2,
+        "titulo": "Ouvir música",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013514/ouvir-musica_kfr4se.png",
+        "som_url": "",
+        "categoria": "Ações"
+    },
+    {
+        "id": 3,
+        "titulo": "Ler",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013513/ler_xaamxd.png",
+        "som_url": "",
+        "categoria": "Ações"
+    },
+    {
+        "id": 4,
+        "titulo": "Desenhar",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013508/desenhar_b6ozjm.png",
+        "som_url": "",
+        "categoria": "Ações"
+    },
+    {
+        "id": 5,
+        "titulo": "Abraço",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013507/abraco_bw37rs.png",
+        "som_url": "",
+        "categoria": "Ações"
+    },
+    {
+        "id": 6,
+        "titulo": "Bolo",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013509/bolo_zxhuo1.png",
+        "som_url": "",
+        "categoria": "Comidas"
+    },
+    {
+        "id": 7,
+        "titulo": "Sorvete",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013506/sorvete_lp767o.png",
+        "som_url": "",
+        "categoria": "Comidas"
+    },
+    {
+        "id": 8,
+        "titulo": "Aniversário",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013514/aniversario_jhv7tm.png",
+        "som_url": "",
+        "categoria": "Eventos e Datas Comemorativas"
+    },
+    {
+        "id": 9,
+        "titulo": "Casa",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013519/casa_hlhtqn.png",
+        "som_url": "",
+        "categoria": "Lugares"
+    },
+    {
+        "id": 10,
+        "titulo": "Supermercado",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013521/supermercado_n3bngp.png",
+        "som_url": "",
+        "categoria": "Lugares"
+    },
+    {
+        "id": 11,
+        "titulo": "Cocô",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013525/coco_o7ubyq.png",
+        "som_url": "",
+        "categoria": "Necessidades"
+    },
+    {
+        "id": 12,
+        "titulo": "Xixi e Cocô",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013524/xixi-coco_uddlhx.png",
+        "som_url": "",
+        "categoria": "Necessidades"
+    },
+    {
+        "id": 13,
+        "titulo": "Descarga",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013525/descarga_zw5vby.png",
+        "som_url": "",
+        "categoria": "Necessidades"
+    },
+    {
+        "id": 14,
+        "titulo": "Videogame",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013538/videogame_bqdxyw.png",
+        "som_url": "",
+        "categoria": "Objetos"
+    },
+    {
+        "id": 15,
+        "titulo": "Violão",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013536/violao_k2mujq.png",
+        "som_url": "",
+        "categoria": "Objetos"
+    },
+    {
+        "id": 16,
+        "titulo": "Tablet",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013535/tablet_yb5lav.png",
+        "som_url": "",
+        "categoria": "Objetos"
+    },
+    {
+        "id": 17,
+        "titulo": "Bicicleta",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013523/bicicleta_qud5mj.png",
+        "som_url": "",
+        "categoria": "Objetos"
+    },
+    {
+        "id": 18,
+        "titulo": "Triste",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013544/triste_vknmu4.png",
+        "som_url": "",
+        "categoria": "Sentimentos"
+    },
+    {
+        "id": 19,
+        "titulo": "Feliz",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013540/feliz_g6dfez.png",
+        "som_url": "",
+        "categoria": "Sentimentos"
+    },
+    {
+        "id": 20,
+        "titulo": "Sono",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013538/sono_nxbcfb.png",
+        "som_url": "",
+        "categoria": "Sentimentos"
+    },
+    {
+        "id": 21,
+        "titulo": "Fome",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013533/fome_bbsqpc.png",
+        "som_url": "",
+        "categoria": "Sentimentos"
+    }
+]
