@@ -39,14 +39,14 @@
         "titulo": "Bolo",
         "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013509/bolo_zxhuo1.png",
         "som_url": "",
-        "categoria": "Comidas"
+        "categoria": "Alimentação"
     },
     {
         "id": 7,
         "titulo": "Sorvete",
         "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1742013506/sorvete_lp767o.png",
         "som_url": "",
-        "categoria": "Comidas"
+        "categoria": "Alimentação"
     },
     {
         "id": 8,
