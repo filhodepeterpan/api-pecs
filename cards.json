@@ -171,7 +171,7 @@
         "id": 25,
         "titulo": "Futebol",
         "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1743367359/futebol_bkmmif.png",
-        "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372681/futebol_d3pt7j.mp3",
+        "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743391854/futebol_d3pt7j.mp3",
         "categoria": "Ações"
     },
     {
@@ -192,14 +192,14 @@
         "id": 28,
         "titulo": "Comer",
         "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1743365455/comer_myth8p.png",
-        "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372659/comer_hwsq82.mp3",
+        "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743391920/comer_hwsq82.mp3",
         "categoria": "Ações"
     },
     {
         "id": 29,
         "titulo": "Sair",
         "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/v1743365452/sair_iun6ri.png",
-        "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372689/sair_cp5tho.mp3",
+        "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743391785/sair_cp5tho.mp3",
         "categoria": "Ações"
     },
     {
