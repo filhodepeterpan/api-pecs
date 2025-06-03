@@ -2,539 +2,539 @@
     {
         "id": 1,
         "titulo": "Silêncio",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742014229/silencio_nhrfwn.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742014229/silencio_nhrfwn.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742016340/silencio_smuhqy.mp3",
         "categoria": "Ajuda"
     },
     {
         "id": 2,
         "titulo": "Ouvir música",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013514/ouvir-musica_kfr4se.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013514/ouvir-musica_kfr4se.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151167/ouvir-musica_rnaafv.mp3",
         "categoria": "Ações"
     },
     {
         "id": 3,
         "titulo": "Ler",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013513/ler_xaamxd.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013513/ler_xaamxd.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151167/ler_nlcrxj.mp3",
         "categoria": "Ações"
     },
     {
         "id": 4,
         "titulo": "Desenhar",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013508/desenhar_b6ozjm.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013508/desenhar_b6ozjm.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151167/desenhar_syblzb.mp3",
         "categoria": "Ações"
     },
     {
         "id": 5,
         "titulo": "Abraço",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013507/abraco_bw37rs.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013507/abraco_bw37rs.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151166/abraco_txh33p.mp3",
         "categoria": "Ações"
     },
     {
         "id": 6,
         "titulo": "Bolo",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013509/bolo_zxhuo1.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013509/bolo_zxhuo1.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151214/bolo_wkgowz.mp3",
         "categoria": "Alimentação"
     },
     {
         "id": 7,
         "titulo": "Sorvete",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013506/sorvete_lp767o.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013506/sorvete_lp767o.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151216/sorvete_swojur.mp3",
         "categoria": "Alimentação"
     },
     {
         "id": 8,
         "titulo": "Aniversário",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013514/aniversario_jhv7tm.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013514/aniversario_jhv7tm.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151226/aniversario_felrys.mp3",
         "categoria": "Eventos"
     },
     {
         "id": 9,
         "titulo": "Casa",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013519/casa_hlhtqn.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013519/casa_hlhtqn.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151239/casa_c8v8g9.mp3",
         "categoria": "Lugares"
     },
     {
         "id": 10,
         "titulo": "Supermercado",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013521/supermercado_n3bngp.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013521/supermercado_n3bngp.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742152887/supermercado_kqtmzt.mp3",
         "categoria": "Lugares"
     },
     {
         "id": 11,
         "titulo": "Cocô",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013525/coco_o7ubyq.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013525/coco_o7ubyq.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151259/coco_x3tl70.mp3",
         "categoria": "Necessidades"
     },
     {
         "id": 12,
         "titulo": "Xixi e Cocô",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013524/xixi-coco_uddlhx.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013524/xixi-coco_uddlhx.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151260/xixi-coco_gnebgy.mp3",
         "categoria": "Necessidades"
     },
     {
         "id": 13,
         "titulo": "Descarga",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013525/descarga_zw5vby.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013525/descarga_zw5vby.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151258/descarga_kbu46t.mp3",
         "categoria": "Necessidades"
     },
     {
         "id": 14,
         "titulo": "Videogame",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013538/videogame_bqdxyw.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013538/videogame_bqdxyw.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151273/videogame_juabgm.mp3",
         "categoria": "Objetos"
     },
     {
         "id": 15,
         "titulo": "Violão",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013536/violao_k2mujq.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013536/violao_k2mujq.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742154371/violao_vsqgfb.mp3",
         "categoria": "Objetos"
     },
     {
         "id": 16,
         "titulo": "Tablet",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013535/tablet_yb5lav.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013535/tablet_yb5lav.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151272/tablet_nerawo.mp3",
         "categoria": "Objetos"
     },
     {
         "id": 17,
         "titulo": "Bicicleta",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013523/bicicleta_qud5mj.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013523/bicicleta_qud5mj.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151271/bicicleta_mzk57o.mp3",
         "categoria": "Objetos"
     },
     {
         "id": 18,
         "titulo": "Triste",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013544/triste_vknmu4.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013544/triste_vknmu4.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151298/triste_xqt7jn.mp3",
         "categoria": "Sentimentos"
     },
     {
         "id": 19,
         "titulo": "Feliz",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013540/feliz_g6dfez.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013540/feliz_g6dfez.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742163146/feliz_qhjg1p.mp3",
         "categoria": "Sentimentos"
     },
     {
         "id": 20,
         "titulo": "Sono",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013538/sono_nxbcfb.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013538/sono_nxbcfb.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151297/sono_jrrf01.mp3",
         "categoria": "Sentimentos"
     },
     {
         "id": 21,
         "titulo": "Fome",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1742013533/fome_bbsqpc.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1742013533/fome_bbsqpc.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1742151296/fome_wgfhmb.mp3",
         "categoria": "Sentimentos"
     },
     {
         "id": 22,
         "titulo": "Viajar",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365452/viajar_zsx6dn.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365452/viajar_zsx6dn.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372701/viajar_k33u0u.mp3",
         "categoria": "Ações"
     },
     {
         "id": 23,
         "titulo": "Ver TV",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743367362/ver-tv_q5sdko.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743367362/ver-tv_q5sdko.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372698/ver-tv_ceyohs.mp3",
         "categoria": "Ações"
     },
     {
         "id": 24,
         "titulo": "Telefonar",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743367361/telefonar_qd2ga7.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743367361/telefonar_qd2ga7.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372692/telefonar_z2a4zg.mp3",
         "categoria": "Ações"
     },
     {
         "id": 25,
         "titulo": "Futebol",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743367359/futebol_bkmmif.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743367359/futebol_bkmmif.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743391854/futebol_d3pt7j.mp3",
         "categoria": "Ações"
     },
     {
         "id": 26,
         "titulo": "Dançar",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743367358/dancar_tas0da.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743367358/dancar_tas0da.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372672/dancar_vuyi8g.mp3",
         "categoria": "Ações"
     },
     {
         "id": 27,
         "titulo": "Conversar",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365458/conversar_dhix4a.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365458/conversar_dhix4a.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372662/conversar_bvn5t3.mp3",
         "categoria": "Ações"
     },
     {
         "id": 28,
         "titulo": "Comer",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365455/comer_myth8p.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365455/comer_myth8p.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743391920/comer_hwsq82.mp3",
         "categoria": "Ações"
     },
     {
         "id": 29,
         "titulo": "Sair",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365452/sair_iun6ri.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365452/sair_iun6ri.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743391785/sair_cp5tho.mp3",
         "categoria": "Ações"
     },
     {
         "id": 30,
         "titulo": "Guardar brinquedos",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365449/guardar-brinquedos_bkri1j.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365449/guardar-brinquedos_bkri1j.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372684/guardar-brinquedos_uxlwaf.mp3",
         "categoria": "Ações"
     },
     {
         "id": 31,
         "titulo": "Pentear cabelo",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365449/pentear-cabelo_lfrpie.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365449/pentear-cabelo_lfrpie.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372687/pentear-cabelo_iv1xzm.mp3",
         "categoria": "Ações"
     },
     {
         "id": 32,
         "titulo": "Escrever",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365448/escrever_facmpc.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365448/escrever_facmpc.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372678/escrever_h2hu95.mp3",
         "categoria": "Ações"
     },
     {
         "id": 33,
         "titulo": "Dormir",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365448/dormir_wqsrnl.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365448/dormir_wqsrnl.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372674/dormir_akq8ve.mp3",
         "categoria": "Ações"
     },
     {
         "id": 34,
         "titulo": "Cumprimentar",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365447/cumprimentar_nsbe13.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365447/cumprimentar_nsbe13.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372669/cumprimentar_zak3ac.mp3",
         "categoria": "Ações"
     },
     {
         "id": 35,
         "titulo": "Cortar as unhas",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365446/cortar-as-unhas_hbqv8t.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365446/cortar-as-unhas_hbqv8t.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372667/cortar-as-unhas_glg3ig.mp3",
         "categoria": "Ações"
     },
     {
         "id": 36,
         "titulo": "Correr",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365446/correr_hwqkvf.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365446/correr_hwqkvf.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372664/correr_kzf2vr.mp3",
         "categoria": "Ações"
     },
     {
         "id": 37,
         "titulo": "Cantar",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365445/cantar_bxther.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365445/cantar_bxther.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372657/cantar_zecd8p.mp3",
         "categoria": "Ações"
     },
     {
         "id": 38,
         "titulo": "Brincar",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365445/brincar_gualtf.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365445/brincar_gualtf.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372655/brincar_zpnwhm.mp3",
         "categoria": "Ações"
     },
     {
         "id": 39,
         "titulo": "Beber",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365444/beber_poazgr.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365444/beber_poazgr.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372652/beber_ibwymq.mp3",
         "categoria": "Ações"
     },
     {
         "id": 40,
         "titulo": "Acordar",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365443/acordar_rkzso7.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365443/acordar_rkzso7.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372649/acordar_hcpwuw.mp3",
         "categoria": "Ações"
     },
     {
         "id": 41,
         "titulo": "Abrir",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365397/abrir_azoyek.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365397/abrir_azoyek.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372648/abrir_j32xdk.mp3",
         "categoria": "Ações"
     },
     {
         "id": 42,
         "titulo": "Eu quero",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743367312/eu-quero_vivj9w.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743367312/eu-quero_vivj9w.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372704/eu-quero_kidr37.mp3",
         "categoria": "Ajuda"
     },
     {
         "id": 43,
         "titulo": "Banho",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743367329/banho_jtxsuo.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743367329/banho_jtxsuo.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372707/banho_bf4kca.mp3",
         "categoria": "Higiene"
     },
     {
         "id": 44,
         "titulo": "Lavar o rosto",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365632/lavar-o-rosto_xlhijq.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365632/lavar-o-rosto_xlhijq.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372718/lavar-o-rosto_w4ix9t.mp3",
         "categoria": "Higiene"
     },
     {
         "id": 45,
         "titulo": "Lavar as mãos",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365630/lavar-as-maos_fd8hll.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365630/lavar-as-maos_fd8hll.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372713/lavar-as-maos_ydm8oq.mp3",
         "categoria": "Higiene"
     },
     {
         "id": 46,
         "titulo": "Lavar o cabelo",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365622/lavar-o-cabelo_ouocv5.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365622/lavar-o-cabelo_ouocv5.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372715/lavar-o-cabelo_owjfzh.mp3",
         "categoria": "Higiene"
     },
     {
         "id": 47,
         "titulo": "Escovar os dentes",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365621/escovar-os-dentes_ysbcim.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365621/escovar-os-dentes_ysbcim.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372710/escovar-os-dentes_ottp2v.mp3",
         "categoria": "Higiene"
     },
     {
         "id": 48,
         "titulo": "Parquinho",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365675/parquinho_xeafxs.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365675/parquinho_xeafxs.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372721/parquinho_n26qgq.mp3",
         "categoria": "Lugares"
     },
     {
         "id": 49,
         "titulo": "Banheiro",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365698/banheiro_o2wy3i.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365698/banheiro_o2wy3i.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372726/banheiro_bmvr7h.mp3",
         "categoria": "Necessidades"
     },
     {
         "id": 50,
         "titulo": "Jaqueta",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365729/jaqueta_w5j7dg.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365729/jaqueta_w5j7dg.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372738/jaqueta_bjn2o5.mp3",
         "categoria": "Objetos"
     },
     {
         "id": 51,
         "titulo": "Lixo",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365729/lixo_myzusm.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365729/lixo_myzusm.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372741/lixo_ccyzac.mp3",
         "categoria": "Objetos"
     },
     {
         "id": 52,
         "titulo": "Ipad",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365727/ipad_yk9ufr.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365727/ipad_yk9ufr.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372736/ipad_kgefoo.mp3",
         "categoria": "Objetos"
     },
     {
         "id": 53,
         "titulo": "Brinquedo",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365726/brinquedo_gu5q7n.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365726/brinquedo_gu5q7n.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372733/brinquedo_kgxj3g.mp3",
         "categoria": "Objetos"
     },
     {
         "id": 54,
         "titulo": "Eu",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365769/eu_tgrcig.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365769/eu_tgrcig.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372804/eu_xzh527.mp3",
         "categoria": "Pessoas"
     },
     {
         "id": 55,
         "titulo": "Sim",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365790/sim_qsh7ls.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365790/sim_qsh7ls.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372809/sim_ufvjat.mp3",
         "categoria": "Respostas Curtas"
     },
     {
         "id": 56,
         "titulo": "Não",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365788/nao_tiwbvb.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365788/nao_tiwbvb.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372807/n%C3%A3o_oxtiar.mp3",
         "categoria": "Respostas Curtas"
     },
     {
         "id": 57,
         "titulo": "Tchau",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365790/tchau_wlyrcy.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365790/tchau_wlyrcy.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372813/tchau_f4gqna.mp3",
         "categoria": "Respostas Curtas"
     },
     {
         "id": 58,
         "titulo": "Dor de cabeça",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365827/dor-de-cabeca_ostwdg.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365827/dor-de-cabeca_ostwdg.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372826/dor-de-cabeca_nuaofv.mp3",
         "categoria": "Sentimentos"
     },
     {
         "id": 59,
         "titulo": "Frio",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365827/frio_hykeq6.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365827/frio_hykeq6.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372829/frio_txnbd9.mp3",
         "categoria": "Sentimentos"
     },
     {
         "id": 60,
         "titulo": "Calor",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365824/calor_yt5nk9.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365824/calor_yt5nk9.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372823/calor_zdk5oi.mp3",
         "categoria": "Sentimentos"
     },
     {
         "id": 61,
         "titulo": "Cabelo",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365764/cabelo_wum5f3.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365764/cabelo_wum5f3.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372767/cabelo_ihurtn.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 62,
         "titulo": "Pescoço",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365764/pescoco_cc4zqc.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365764/pescoco_cc4zqc.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372797/pescoco_gbwfqn.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 63,
         "titulo": "Braços",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365760/bracos_ouu65y.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365760/bracos_ouu65y.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372761/bracos_nee3xq.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 64,
         "titulo": "Unhas",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365759/unhas_xmuffu.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365759/unhas_xmuffu.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372800/unhas_gtkou2.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 65,
         "titulo": "Pés",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365758/pes_xfw9qn.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365758/pes_xfw9qn.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372794/pes_atqjsq.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 66,
         "titulo": "Olhos",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365757/olhoss_j1oa4u.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365757/olhoss_j1oa4u.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372784/olhos_n5mo50.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 67,
         "titulo": "Orelha",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365757/orelha_shrrud.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365757/orelha_shrrud.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372790/orelha_xoh16p.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 68,
         "titulo": "Ombro",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365756/ombros_uba4dp.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365756/ombros_uba4dp.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372787/ombro_qccazx.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 69,
         "titulo": "Joelhos",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365756/joelhos_c3il2r.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365756/joelhos_c3il2r.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372775/joelhos_sv5tbv.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 70,
         "titulo": "Nariz",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365754/nariz_lcx0k2.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365754/nariz_lcx0k2.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372782/nariz_tjwst0.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 71,
         "titulo": "Mãos",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365754/maos_qymwpw.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365754/maos_qymwpw.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372778/maos_leatsj.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 72,
         "titulo": "Dedo",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365752/dedo_qjebu8.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365752/dedo_qjebu8.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372772/dedo_eb2dax.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 73,
         "titulo": "Costas",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365751/costass_yiytfa.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365751/costass_yiytfa.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372769/costas_qbojhd.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 74,
         "titulo": "Cabeça",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365750/cabeca_xmcw2w.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365750/cabeca_xmcw2w.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372764/cabeca_csrwn5.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 75,
         "titulo": "Boca",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365749/boca_sjnznl.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365749/boca_sjnznl.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372759/boca_kaeypv.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 76,
         "titulo": "Barriga",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365747/barriga_e1jcdw.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365747/barriga_e1jcdw.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372756/barriga_xcxmma.mp3",
         "categoria": "Partes do Corpo"
     },
     {
         "id": 77,
         "titulo": "Trocar de Roupa",
-        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,w_240,h_300,c_fit,f_jpg/v1743365452/trocar-de-roupa_csxhjc.png",
+        "imagem_url": "https://res.cloudinary.com/dndsho9j3/image/upload/q_auto,f_auto/v1743365452/trocar-de-roupa_csxhjc.png",
         "som_url": "https://res.cloudinary.com/dndsho9j3/video/upload/v1743372695/trocar-de-roupa_wbllje.mp3",
         "categoria": "Ações"
     }
